@@ -1,0 +1,2 @@
+It returns all of the deactivated accounts by checking the account status under the table
+Customer. If the AccountStatus attribute is zero, it is therefore marked as inactive.

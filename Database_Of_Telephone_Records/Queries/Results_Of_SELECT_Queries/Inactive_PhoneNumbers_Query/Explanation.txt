@@ -1,0 +1,2 @@
+Simply returns all phone numbers that are currently not associated with any account. This can
+also be viewed as a list of available phone numbers for new potential customers.

@@ -1,0 +1,2 @@
+This query displays all customers in the database and shows how much data they have used.
+The data is a numeric type and is a representation of the number of bytes.

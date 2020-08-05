@@ -1,0 +1,3 @@
+This query is intended on retreiving all text messages related to the phone number
+807-789-4561. It returns all messages sent and received. The phoneNumber attribute is always
+the sender and the connectedNumber attribute is always the receiver.

@@ -1,0 +1,2 @@
+This query simply returns the phone number and the Id it is associated under. It also displays
+the data plan the specified number is on.
